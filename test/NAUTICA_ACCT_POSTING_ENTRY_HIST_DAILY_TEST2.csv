@@ -1,0 +1,3 @@
+TradingVenueId,TradeDate,PostingEntryId,PostingEntryType,PostingEntryDatetime,AccountId,AccountHandle,ProductId,Product,CR,DR,ReferenceTransactionType,ReferenceTransactionId,SystemRecordReference,Hdr_ExchangeId,Hdr_ClientSequenceId,Hdr_ClientUserId,CounterpartyAccountId
+100,00:00.0,1206779,Other,59:20.2,845,\N,2,\N,0.13280212,0,Deposit,47,16830597,1,0,0,2
+101,00:00.0,1206780,Other,59:20.2,2,\N,2,\N,0,0.13280212,Deposit,47,16830599,1,0,0,845
